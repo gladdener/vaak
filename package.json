@@ -1,0 +1,26 @@
+{
+  "name": "vaak",
+  "version": "1.0.0",
+  "description": "[वाक](https://en.wikipedia.org/wiki/Vāc)",
+  "main": "main.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "convert css and build service-worker list",
+    "test": "come up with something"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gladdener/vaak.git"
+  },
+  "keywords": [],
+  "author": "kamalsaurus",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/gladdener/vaak/issues"
+  },
+  "homepage": "https://github.com/gladdener/vaak#readme",
+  "dependencies": {
+    "preact": "^8.4.2",
+    "preact-router": "https://github.com/kamalasaurus/preact-router/tarball/master"
+  }
+}
